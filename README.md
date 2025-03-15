@@ -5,11 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 is the design, development, testing, deployment, and maintenance of software systems that provide user experience for people.
 used in modern businesses for record keeping
 used for developing softwares
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1968: NATO Software Engineering Conference
  "software engineering" term was coined at this conference, marking the recognition of software development as a formal engineering discipline.
 
@@ -19,8 +21,8 @@ introduction of structured programming (e.g., by Edsger Dijkstra) and modular de
 2001: Agile Manifesto
 The Agile Manifesto revolutionized software development by emphasizing iterative development, customer collaboration, and responsiveness to change, moving away from rigid, plan-driven approaches like Waterfall advancing software development.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Requirements Gathering: Understanding and documenting what the software needs to do.
 
 Design: Creating the architecture and design of the system.
@@ -34,15 +36,15 @@ Deployment: Releasing the software to users.
 Maintenance: Fixing bugs and updating the software over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall: A linear, sequential approach where each phase must be completed before the next begins. Suitable for projects with well-defined requirements and little expected change (e.g., building a bridge).
 
 Agile: An iterative approach that emphasizes flexibility, collaboration, and customer feedback. Suitable for projects where requirements are likely to evolve (e.g., developing a mobile applications)
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-DEs (e.g., Visual Studio, IntelliJ IDEA): Provide tools for coding, debugging, and testing, improving developer productivity.
+IDEs (e.g., Visual Studio, IntelliJ IDEA): Provide tools for coding, debugging, and testing, improving developer productivity.
 
 VCS (e.g., Git, SVN): Tracks changes to code, enables collaboration, and allows developers to revert to previous versions if needed.
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Challenge: Changing Requirements
 Strategy: Use Agile methodologies to adapt to changes quickly.
